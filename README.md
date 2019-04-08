@@ -11,7 +11,7 @@ It enables the following symmetric interaction models via async message passing 
 - fire-and-forget (no response)
 - event subscription (infinite stream of many)
 
-Learn more at http://rsocket.io
+Learn more at http://rsocket.io 
 
 ## Build and Binaries
 
